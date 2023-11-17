@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LazyView</string>
+    <string name="app_title">Ленивые элементы</string>
+</resources>
